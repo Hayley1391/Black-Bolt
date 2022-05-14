@@ -12,4 +12,4 @@ module.exports = {
             .setColor("#0a0a0a")
         message.channel.send(embedForPing)
     }
-}
+} 
